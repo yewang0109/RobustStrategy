@@ -5,7 +5,9 @@ DESCRIPTION
 
 Code for paper "Robust strategies for iterated games on graphs".
 
-The codes include program for theoretical calculations (written by MathWorks Matlab R2024a) and numerical simulations (written by Python 3.10).
+The program codes are provided for theoretical calculations (written in Matlab R2024a) and numerical simulations (written in Python 3.10).
+
+A Python version for the theoretical calculations (written in Python 3.10) is included in the theoretical_calculation_Python folder.
 
 FILE
 -----------
@@ -24,6 +26,16 @@ FILE
 
 The remaining files are subfunctions or data needed to run the above codes.
 
-Note
+The theoretical_calculation_Python folder contains the following Python scripts, corresponding one-to-one to the MATLAB main codes:
+
+--Main_category_size_5_py: Python version of Main_category_size_5.
+
+--Main_star_transition_probability_py: Python version of Main_star_transition_probability.
+
+--Main_fan_transition_probability_py: Python version of Main_fan_transition_probability.
+
+All subfunctions are integrated in network_calc.py. The data files (n_5.mat and n_5_coords.mat) are used for running Main_category_size_5_py.
+
+NOTE
 -----------
 To run the code, make sure that all files are in the same folder.
