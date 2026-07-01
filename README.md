@@ -24,9 +24,9 @@ FILE
 
 --f_network_category: function to determine the category of a given network.
 
-The remaining files are subfunctions or data needed to run the above codes.
+The remaining files are subfunctions or data files needed to run the above scripts.
 
-The theoretical_calculation_Python folder contains the following Python scripts, corresponding one-to-one to the MATLAB main codes:
+The theoretical_calculation_Python folder contains the following Python scripts, corresponding one-to-one with the main MATLAB scripts:
 
 --Main_category_size_5_py: Python version of Main_category_size_5.
 
