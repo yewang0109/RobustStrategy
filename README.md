@@ -5,7 +5,7 @@ DESCRIPTION
 
 Code for paper "Robust strategies for iterated games on graphs".
 
-The program codes are provided for theoretical calculations (written in Matlab R2024a) and numerical simulations (written in Python 3.10).
+The code is provided for theoretical calculations (written in Matlab R2024a) and numerical simulations (written in Python 3.10).
 
 A Python version for the theoretical calculations (written in Python 3.10) is included in the theoretical_calculation_Python folder.
 
